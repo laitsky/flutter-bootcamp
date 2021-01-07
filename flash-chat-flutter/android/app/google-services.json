@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053212374195",
+    "project_id": "flash-chat-a1943",
+    "storage_bucket": "flash-chat-a1943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053212374195:android:e633e595c631d614876cc6",
+        "android_client_info": {
+          "package_name": "tech.laitsky.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053212374195-egj1no943ugbv9mf5eqvaos19bdh09mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHwDCtO91624Tkcj-S5-_yzUx1DzK0YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053212374195-egj1no943ugbv9mf5eqvaos19bdh09mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
